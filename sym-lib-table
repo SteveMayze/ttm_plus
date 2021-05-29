@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ttm_plus)(type Legacy)(uri D:/pcbs/ttm_plus/lib/ttm_plus.lib)(options "")(descr ""))
+)
